@@ -1,0 +1,12 @@
+Phase 3 —
+You said you want to learn how to create it.
+We’ll do it in this order:
+Initialize Firebase project
+Connect GitHub repo
+Build basic React frontend
+Create Firestore collections:
+Farms
+Equipment
+Service Logs
+Diagnostics
+Build first working decaking machine workflow
