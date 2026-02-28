@@ -1,0 +1,24 @@
+/top-dawg-pro-suite
+│
+├── README.md
+├── BUSINESS_PLAN.md
+├── SYSTEM_ARCHITECTURE.md
+│
+├── /app
+│   ├── /frontend
+│   ├── /backend
+│   ├── /database
+│   └── /diagnostics
+│
+├── /case-studies
+│   └── simmons-farm-decaking-machine.md
+│
+├── /flatbed-design
+│   ├── flatbed-specifications.md
+│   ├── wiring-diagrams.md
+│   └── cad-drawings/
+│
+└── /docs
+    ├── maintenance-logs-template.md
+    ├── service-report-template.md
+    └── preventive-maintenance-checklist.md
