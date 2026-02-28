@@ -1,0 +1,17 @@
+Use:
+Frontend:
+React (TypeScript .tsx files)
+Backend:
+Firebase
+Firestore (database)
+Authentication
+Cloud Functions
+Hosting:
+Firebase Hosting
+AI Integration:
+GPT API integrated via secure backend function
+This makes it:
+Hybrid (works on web + mobile browser)
+Offline capable
+Professional
+Scalable
